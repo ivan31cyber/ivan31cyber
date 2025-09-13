@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 
-**ivan31cyber/ivan31cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🔭 I’m currently working on ...
 - Building hands-on cybersecurity projects (SOC labs, malware analysis, penetration testing)
 - Cloud security deployments on AWS (LAMP stack, monitoring with CloudWatch, DataDog, Cloudflare)
 - Developing automation pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes
+- 
   
 - 🌱 I’m currently learning ...
 - Advanced concepts in threat detection and incident response

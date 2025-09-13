@@ -4,9 +4,9 @@ I’m Ivan Dsouza, a Postgraduate Cybersecurity Student with an MSc in Cybersecu
 
 
 - 🔭 I’m currently working on ...
-- Building hands-on cybersecurity projects (SOC labs, malware analysis, penetration testing)
-- Cloud security deployments on AWS (LAMP stack, monitoring with CloudWatch, DataDog, Cloudflare)
-- Developing automation pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes
+ Building hands-on cybersecurity projects (SOC labs, malware analysis, penetration testing)
+ Cloud security deployments on AWS (LAMP stack, monitoring with CloudWatch, DataDog, Cloudflare)
+ Developing automation pipelines using Jenkins, Ansible, Terraform, Docker, and Kubernetes
   
   
 - 🌱 I’m currently learning ...

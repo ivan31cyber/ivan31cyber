@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
 
-
+I’m Ivan Dsouza, a Postgraduate Cybersecurity Student with an MSc in Cybersecurity and a passion for securing digital systems. My work spans SOC operations, penetration testing, digital forensics, malware analysis, and security monitoring with SIEM tools. I also explore DevOps automation (Terraform, Jenkins, Docker, Kubernetes) and cloud security on AWS, applying secure-by-design principles to projects. I’m driven by a curiosity to uncover vulnerabilities and transform them into practical, resilient solutions.
 
 
 - 🔭 I’m currently working on ...
